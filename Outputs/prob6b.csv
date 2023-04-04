@@ -1,0 +1,283 @@
+"Airport Name",Reason,"Cancelations for Reason"
+" Lehigh Valley International","National Air System",1
+" Albuquerque International Sunport",Weather,12
+" Aberdeen Regional",Weather,3
+" Southwest Georgia Regional","National Air System",3
+" California Redwood Coast Humboldt County",Weather,1
+" Atlantic City International","National Air System",14
+" Adak",Weather,1
+" Kodiak Airport",Weather,4
+" Alexandria International","National Air System",5
+" Augusta Regional at Bush Field",Weather,2
+" Albany International","National Air System",6
+" Rick Husband Amarillo International","National Air System",2
+" Ted Stevens Anchorage International",Weather,9
+" Alpena County Regional",Weather,3
+" Aspen Pitkin County Sardy Field","National Air System",46
+" Hartsfield-Jackson Atlanta International","National Air System",659
+" Appleton International","National Air System",3
+" Austin - Bergstrom International",Weather,95
+" Asheville Regional","National Air System",6
+" Wilkes Barre Scranton International","National Air System",3
+" Phoenix - Mesa Gateway",Weather,1
+" Kalamazoo/Battle Creek International",Weather,11
+" Bradley International","National Air System",99
+" Bethel Airport",Weather,2
+" Meadows Field",Weather,1
+" Greater Binghamton/Edwin A. Link Field",Weather,3
+" Bangor International","National Air System",18
+" Birmingham-Shuttlesworth International","National Air System",17
+" Billings Logan International",Weather,4
+" Bismarck Municipal",Weather,9
+" Bemidji Regional",Weather,1
+" Bellingham International",Weather,2
+" Central Il Regional Airport at Bloomington","National Air System",3
+" Nashville International","National Air System",126
+" Boise Air Terminal",Weather,16
+" Logan International",Security,647
+" Brunswick Golden Isles","National Air System",4
+" Rafael Hernandez","National Air System",4
+" Brainerd Lakes Regional",Weather,4
+" Brownsville South Padre Island International","National Air System",3
+" Baton Rouge Metropolitan/Ryan Field","National Air System",7
+" Burlington International","National Air System",25
+" Buffalo Niagara International","National Air System",64
+" Bob Hope","National Air System",26
+" Baltimore/Washington International Thurgood Marshall","National Air System",159
+" Bozeman Yellowstone International",Weather,4
+" Columbia Metropolitan","National Air System",5
+" Akron-Canton Regional","National Air System",4
+" Cedar City Regional",Weather,1
+" Merle K Mudhole Smith",Weather,2
+" Cape Girardeau Regional",Weather,7
+" Lovell Field",Weather,5
+" Charlottesville Albemarle","National Air System",3
+" Charleston AFB/International","National Air System",160
+" The Eastern Iowa",Weather,6
+" Chippewa County International",Weather,1
+" North Central West Virginia","National Air System",1
+" Cleveland-Hopkins International","National Air System",56
+" Easterwood Field","National Air System",2
+" Charlotte Douglas International","National Air System",270
+" John Glenn Columbus International","National Air System",57
+" Houghton County Memorial","National Air System",3
+" City of Colorado Springs Municipal",Weather,5
+" Columbia Regional",Weather,4
+" Corpus Christi International","National Air System",10
+" Yeager","National Air System",3
+" Columbus Airport","National Air System",2
+" Cincinnati/Northern Kentucky International","National Air System",36
+" Central Wisconsin","National Air System",2
+" Daytona Beach International","National Air System",3
+" Dallas Love Field","National Air System",87
+" James M Cox/Dayton International","National Air System",9
+" Ronald Reagan Washington National","National Air System",137
+" Denver International","National Air System",184
+" Dallas/Fort Worth International","National Air System",143
+" Dothan Regional",Weather,2
+" Duluth International",Weather,6
+" Durango La Plata County",Weather,2
+" Des Moines International","National Air System",8
+" Detroit Metro Wayne County","National Air System",125
+" Devils Lake Regional",Weather,2
+" Chippewa Valley Regional","National Air System",3
+" Northwest Florida Beaches International","National Air System",6
+" Eagle County Regional",Weather,6
+" Elko Regional",Weather,2
+" El Paso International","National Air System",13
+" Delta County",Weather,6
+" Mahlon Sweet Field",Weather,1
+" Evansville Regional","National Air System",5
+" Coastal Carolina Regional","National Air System",3
+" Newark Liberty International","National Air System",527
+" Key West International",Weather,2
+" Fairbanks International",Weather,3
+" Hector International","National Air System",9
+" Fresno Yosemite International",Weather,2
+" Fayetteville Regional/Grannis Field","National Air System",2
+" Glacier Park International",Weather,2
+" Fort Lauderdale-Hollywood International","National Air System",167
+" Bishop International",Weather,7
+" Joe Foss Field",Weather,12
+" Fort Smith Regional","National Air System",2
+" Fort Wayne International",Weather,6
+" Gillette Campbell County",Weather,2
+" Spokane International",Weather,11
+" Grand Forks International","National Air System",3
+" Grand Junction Regional",Weather,1
+" Gainesville Regional","National Air System",2
+" Gulfport-Biloxi International","National Air System",6
+" Green Bay Austin Straubel International",Weather,2
+" Robert Gray AAF","National Air System",2
+" Gerald R. Ford International","National Air System",14
+" Piedmont Triad International","National Air System",13
+" Greenville-Spartanburg International","National Air System",8
+" Golden Triangle Regional","National Air System",2
+" Yampa Valley",Weather,2
+" Range Regional",Weather,4
+" Helena Regional",Weather,1
+" Daniel K Inouye International",Weather,6
+" Lea County Regional","National Air System",2
+" William P Hobby","National Air System",161
+" Westchester County","National Air System",19
+" Valley International","National Air System",9
+" Huntsville International-Carl T Jones Field","National Air System",6
+" Hays Regional",Weather,1
+" Washington Dulles International","National Air System",75
+" Niagara Falls International",Weather,4
+" George Bush Intercontinental/Houston","National Air System",378
+" Wichita Dwight D Eisenhower National","National Air System",4
+" Idaho Falls Regional",Weather,3
+" Wilmington International",Weather,10
+" Ford",Weather,3
+" Indianapolis International","National Air System",48
+" Falls International Einarson Field",Weather,4
+" Sloulin Field International",Weather,2
+" Long Island MacArthur",Weather,37
+" Ithaca Tompkins Regional",Weather,1
+" Hilo International",Carrier,2
+" Jackson Hole","National Air System",5
+" Jackson Medgar Wiley Evers International","National Air System",9
+" Jacksonville International","National Air System",56
+" John F. Kennedy International","National Air System",419
+" Jamestown Regional",Weather,6
+" Juneau International",Weather,8
+" Ellison Onizuka Kona International at Keahole",Carrier,5
+" Ketchikan International",Weather,2
+" Capital Region International",Weather,5
+" McCarran International","National Air System",79
+" Los Angeles International","National Air System",144
+" Lubbock Preston Smith International","National Air System",4
+" Arnold Palmer Regional",Weather,2
+" Lake Charles Regional","National Air System",4
+" Blue Grass","National Air System",9
+" Lafayette Regional Paul Fournet Field","National Air System",7
+" LaGuardia","National Air System",544
+" Long Beach Airport",Weather,7
+" Lihue Airport",Carrier,7
+" Bill and Hillary Clinton Nat Adams Field","National Air System",10
+" Lincoln Airport",Weather,4
+" Laredo International","National Air System",3
+" La Crosse Regional",Weather,2
+" Lewiston Nez Perce County",Weather,1
+" Midland International Air and Space Port","National Air System",8
+" MBS International",Weather,3
+" Kansas City International","National Air System",49
+" Orlando International","National Air System",170
+" Harrisburg International",Weather,9
+" Chicago Midway International","National Air System",262
+" Memphis International","National Air System",33
+" McAllen Miller International","National Air System",9
+" Rogue Valley International - Medford",Weather,13
+" Montgomery Regional",Weather,10
+" Manchester-Boston Regional","National Air System",15
+" Miami International",Weather,99
+" General Mitchell International","National Air System",26
+" Muskegon County","National Air System",4
+" Melbourne International",Weather,2
+" Quad City International",Weather,12
+" Monroe Regional","National Air System",4
+" Mammoth Lakes Airport",Weather,4
+" Mobile Regional","National Air System",11
+" Minot International","National Air System",4
+" Sawyer International",Weather,10
+" Monterey Regional",Weather,6
+" Dane County Regional-Truax Field","National Air System",13
+" Missoula International",Weather,2
+" Minneapolis-St Paul International","National Air System",386
+" Louis Armstrong New Orleans International","National Air System",139
+" Montrose Regional","National Air System",2
+" Myrtle Beach International",Weather,17
+" Albert J Ellis","National Air System",7
+" Metropolitan Oakland International",Weather,34
+" Ogden-Hinckley",Weather,1
+" Kahului Airport",Carrier,10
+" Ogdensburg International","National Air System",1
+" Will Rogers World","National Air System",13
+" Eppley Airfield","National Air System",25
+" Nome Airport",Weather,1
+" Ontario International",Weather,7
+" Chicago O'Hare International","National Air System",272
+" Norfolk International","National Air System",92
+" Worcester Regional",Weather,2
+" Southwest Oregon Regional",Weather,1
+" Ralph Wien Memorial",Weather,1
+" Owensboro Daviess County Regional","National Air System",2
+" Barkley Regional","National Air System",6
+" Plattsburgh International",Weather,3
+" Palm Beach International","National Air System",78
+" Portland International","National Air System",29
+" Punta Gorda Airport",Weather,4
+" Newport News/Williamsburg International",Weather,5
+" Philadelphia International","National Air System",199
+" Phoenix Sky Harbor International","National Air System",72
+" General Downing - Peoria International","National Air System",6
+" St Pete Clearwater International",Weather,7
+" Pocatello Regional",Weather,1
+" Pittsburgh International","National Air System",56
+" Pellston Regional Airport of Emmet County",Weather,12
+" Pensacola International","National Air System",16
+" Tri Cities",Weather,7
+" Mercedita",Weather,3
+" Petersburg James A Johnson",Weather,4
+" Portsmouth International at Pease",Weather,1
+" Palm Springs International","National Air System",6
+" Theodore Francis Green State","National Air System",69
+" Portland International Jetport","National Air System",33
+" Rapid City Regional",Weather,9
+" Redding Municipal","National Air System",2
+" Roberts Field",Weather,7
+" Raleigh-Durham International","National Air System",162
+" Rhinelander/Oneida County",Weather,4
+" Richmond International","National Air System",37
+" Southwest Wyoming Regional",Weather,2
+" Reno/Tahoe International",Weather,8
+" Roanoke Blacksburg Regional Woodrum Field","National Air System",5
+" Greater Rochester International","National Air System",17
+" Rochester International",Weather,4
+" Southwest Florida International","National Air System",75
+" San Diego International","National Air System",69
+" San Antonio International",Weather,63
+" Savannah/Hilton Head International","National Air System",37
+" Santa Barbara Municipal",Weather,4
+" South Bend International",Weather,19
+" San Luis County Regional","National Air System",10
+" University Park",Weather,1
+" Louisville Muhammad Ali International","National Air System",21
+" Seattle/Tacoma International","National Air System",65
+" Orlando Sanford International","National Air System",6
+" San Francisco International","National Air System",162
+" Springfield-Branson National","National Air System",9
+" St George Regional",Weather,1
+" Shreveport Regional","National Air System",7
+" Sitka Rocky Gutierrez",Carrier,3
+" Norman Y. Mineta San Jose International","National Air System",25
+" Luis Munoz Marin International",Weather,27
+" Salt Lake City International","National Air System",65
+" Sacramento International","National Air System",14
+" John Wayne Airport-Orange County","National Air System",18
+" Abraham Lincoln Capital","National Air System",3
+" Sarasota/Bradenton International",Weather,13
+" St Louis Lambert International","National Air System",64
+" Charles M. Schulz - Sonoma County",Weather,6
+" Cyril E King",Carrier,2
+" Henry E. Rohlsen",Carrier,1
+" Friedman Memorial",Weather,18
+" New York Stewart International",Weather,8
+" Syracuse Hancock International","National Air System",27
+" Tallahassee International",Weather,5
+" Toledo Express",Weather,1
+" Tampa International","National Air System",122
+" Tri Cities",Weather,1
+" Trenton Mercer",Weather,8
+" Tulsa International","National Air System",11
+" Tucson International",Weather,8
+" Cherry Capital",Weather,2
+" Joslin Field - Magic Valley Regional",Weather,1
+" McGhee Tyson","National Air System",7
+" Quincy Regional-Baldwin Field","National Air System",8
+" Valdosta Regional","National Air System",2
+" Eglin AFB Destin Fort Walton Beach","National Air System",2
+" Wrangell Airport",Weather,3
+" Northwest Arkansas Regional","National Air System",10
+" Yakutat Airport",Weather,1
